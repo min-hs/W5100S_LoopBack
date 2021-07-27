@@ -1,3 +1,0 @@
-wizchip_init.c:11:6:WIZCHIPInitialize	24	static
-wizchip_init.c:44:6:resetAssert	8	static
-wizchip_init.c:49:6:resetDeassert	8	static
