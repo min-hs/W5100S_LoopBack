@@ -2,7 +2,7 @@
 
 - [Hardware Environment](#hardwareEnvironment)
 - [Software Environment](#softwareEnvironment)
-- [Cun](#run)
+- [Run](#run)
 - [Test packet capture file](#testpacketcapturefile)
 - [Code review](#codereview)
 
